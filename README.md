@@ -1,5 +1,5 @@
 # Demo
-(demo)[https://littleplumule.github.io/mask-map-app/]
+[demo](https://littleplumule.github.io/mask-map-app/)
 
 ## Clone
 `git clone https://github.com/littlePlumule/mask-map-app.git`
